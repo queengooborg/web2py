@@ -10,7 +10,7 @@ Web2Py framework modules
 ========================
 """
 
-__version__ = "3.0.3"
+__version__ = "3.0.11"
 
 __all__ = [
     "__version__",
